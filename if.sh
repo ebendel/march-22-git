@@ -11,4 +11,8 @@ then
    echo
    date 
 fi 
+
+echo "Successful execution of script"
+
+
   
